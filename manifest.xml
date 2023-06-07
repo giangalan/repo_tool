@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin"
+            fetch=".."
+            revision="main"
+            review="https://github.com/giangalan"
+    />
+    <default remote="origin"
+            revision="main"
+            sync-j="4" 
+    />
+    <project name="LSTM"
+            path="https://github.com/giangalan/LSTM"
+            remote="github"
+            revision="main"
+    />
+
+</manifest>
