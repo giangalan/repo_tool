@@ -9,6 +9,6 @@
             sync-j="4" 
     />
 
-    <project name="LSTM" path="lstm"/>
-    <project name="jenkinslab" path="jen"/>
+    <project name="bamboolab" path="bamlab"/>
+    <project name="jenkinslab" path="jenlab"/>
 </manifest>
